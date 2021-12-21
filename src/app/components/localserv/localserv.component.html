@@ -1,0 +1,17 @@
+<h1>data form service</h1>
+
+<table>
+    <tr>
+ <th>Id</th>
+ <th>MobileName</th>
+ <th>MobilePrice</th>
+</tr>
+<tr *ngFor="let mobile of mobiles">
+    <td> {{mobile.id}}
+
+    </td>
+    <td> {{mobile.mobile_name|uppercase}} </td>
+    <td> {{mobile.mobile_price}} </td>
+</tr>
+
+</table>

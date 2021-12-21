@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Sheldon Cooper",
+      "email": "sheldon@gmail.com",
+      "phone": "202-555-0182"
+    },
+    {
+      "id": 3,
+      "name": "Raj Koothrappali",
+      "email": "raj@gmail.com",
+      "phone": "202-555-0183"
+    },
+    {
+      "name": "Yash Pathak",
+      "email": "yash@yahoo.com",
+      "phone": "9945906746",
+      "id": 5
+    },
+    {
+      "name": "Neha",
+      "email": "Neha@gmail.com",
+      "phone": "45567890990",
+      "id": 6
+    },
+    {
+      "name": "ninad",
+      "email": "kalyani@gmail.com",
+      "phone": "98765",
+      "id": 7
+    }
+  ]
+}

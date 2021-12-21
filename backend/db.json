@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 2,
+      "name": "Sheldon Cooper",
+      "email": "sheldon@gmail.com",
+      "phone": "202-555-0183"
+    },
+    {
+      "id": 3,
+      "name": "Raj Koothrappali",
+      "email": "raj@gmail.com",
+      "phone": "202-555-0183"
+    },
+    {
+      "name": "kalyani",
+      "email": "k@gmail.com",
+      "phone": "34567890",
+      "id": 4
+    }
+  ]
+}
